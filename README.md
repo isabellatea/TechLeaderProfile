@@ -11,7 +11,7 @@ Additionally, engineers will teach their family members/clients while they're bu
 
 ## Schedule
 
-- 20 mins: Together fill out this worksheet
+- 20 mins: Together fill out the [Client and Engineer Worksheet](http://bit.ly/clientEngineerWorksheet)
 - 1 hour: Engineer builds website w/ Client
 - 10 mins: Client reviews website and gives feedback
 - 30 mins: Engineer incorporates feedback into website
@@ -22,4 +22,4 @@ Additionally, engineers will teach their family members/clients while they're bu
   - **index.html** - Homepage. Has style.css, script.js and jQuery library already linked.
   - **script.js** - JS File. Setup to be ready for jQuery.
   - **style.css** - CSS File. Has example style declaration in it.
-- Client and Engineer Worksheet (access with CSEdge): http://bit.ly/clientEngineerWorksheet
+- [Client and Engineer Worksheet](http://bit.ly/clientEngineerWorksheet)
