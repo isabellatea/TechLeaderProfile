@@ -11,10 +11,10 @@ Additionally, engineers will teach their family members/clients while they're bu
 
 ## Schedule
 
-- 2:00pm - 2:20pm: Together fill out this worksheet
-- 2:20pm - 3:20pm: Engineer builds website w/ Client
-- 3:20pm - 3:30pm: Client reviews website and gives feedback
-- 3:30pm - 4:00pm: Engineer incorporates feedback into website
+- 20 mins: Together fill out this worksheet
+- 1 hour: Engineer builds website w/ Client
+- 10 mins: Client reviews website and gives feedback
+- 30 mins: Engineer incorporates feedback into website
 
 
 ## Resources
