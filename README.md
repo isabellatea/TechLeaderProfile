@@ -17,9 +17,35 @@ Additionally, engineers will teach their family members/clients while they're bu
 - 30 mins: Engineer incorporates feedback into website
 
 
-## Resources
+## Getting Started
 - Starter Repo
   - **index.html** - Homepage. Has style.css, script.js and jQuery library already linked.
   - **script.js** - JS File. Setup to be ready for jQuery.
   - **style.css** - CSS File. Has example style declaration in it.
 - [Client and Engineer Worksheet](http://bit.ly/clientEngineerWorksheet)
+
+## Resources
+- **[HTML.com][HTML]** - comprehensive guide and tutorials of [HTML][HTML-HTML], [CSS][HTML-CSS], and [Javascript][HTML-JS] from absolute beginner to advanced usages/techniques
+- **[W3Schools.com][W3]** - explore the left sidebar of each of the [HTML][W3-HTML], [CSS][W3-CSS], [Javascript][W3-JS] and [jQuery][W3-jQuery] sections for a large range of things you can create. Don’t forget to click the “Try it Yourself >>” buttons to see the code in action. 
+- **[Mozilla Developer Network (MDN) Web Docs][MDN]**- vast resource of [HTML][MDN-HTML], [CSS][MDN-CSS], and [Javascript][MDN-JS] references, guides, tutorials and more. 
+- **[jQuery][jQuery]** - API Documentation for the jQuery library
+- **[StackOverflow][StackOverflow]** - have a specific coding question? Chances are it has been asked/answered on StackOverflow. Search through previously asked questions and/or ask your own!
+
+[HTML]: https://html.com/
+[HTML-HTML]: https://html.com/
+[HTML-CSS]: https://html.com/css/
+[HTML-JS]: https://html.com/javascript/
+
+[W3]: https://www.w3schools.com/
+[W3-HTML]: https://www.w3schools.com/html/html_basic.asp
+[W3-CSS]: https://www.w3schools.com/css/css_intro.asp
+[W3-JS]: https://www.w3schools.com/js/default.asp
+[W3-jQuery]: https://www.w3schools.com/jquery/
+
+[MDN]: https://developer.mozilla.org/en-US/
+[MDN-HTML]: https://developer.mozilla.org/en-US/docs/Learn/HTML
+[MDN-CSS]: https://developer.mozilla.org/en-US/docs/Learn/CSS
+[MDN-JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+[jQuery]: https://api.jquery.com/
+[StackOverflow]: https://stackoverflow.com/
